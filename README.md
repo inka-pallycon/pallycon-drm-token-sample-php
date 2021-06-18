@@ -1,6 +1,6 @@
 # PallyCon PHP Token Sample 
 
-## 환경
+## Requirements
 - PHP Version 5.6 or later.
 - Install Composer to use autoloader. 
 
